@@ -34,7 +34,7 @@
 | **MariaDB**         | Relationale Datenbank für persistente Spiel- und Nutzerdaten (Plots, Economy, Stats)        |
 | **Redis**           | In-Memory Cache für schnelle Ingame-Abfragen, Session-Management, Leaderboards              |
 | **JSON / GSON**     | Datenstrukturierung & -verarbeitung zwischen Proxy, Cloud und Web                           |
-| **PoloCloud**       | Dynamisches Cloud- & Server-Management, Auto-Scaling und Multi-Node Instanzen               |
+| **[PoloCloud](https://polocloud.de)**       | Dynamisches Cloud- & Server-Management, Auto-Scaling und Multi-Node Instanzen               |
 
 ---
 
