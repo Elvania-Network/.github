@@ -27,7 +27,8 @@
 | Technologie         | Beschreibung                                                                                |
 | ------------------- | ------------------------------------------------------------------------------------------- |
 | **JavaScript**      | Interaktive und dynamische Webfunktionen, z. B. Leaderboards, Event-Kalender                |
-| **Node.js**         | Webserver / API-Layer, z. B. für Echtzeitkommunikation oder REST-Dienste                    |
+| **Next.js**         | Webserver                                                                                   |
+| **SpringBoot**      | API-Layer, z. B. für Echtzeitkommunikation oder REST-Dienste                                | 
 | **gRPC**            | Schnelle, effiziente Kommunikation zwischen Cloud-Instanzen für Load Balancing & Monitoring |
 | **PaperMC**         | Performanter Minecraft-Server mit Plugin-Support                                            |
 | **Velocity**        | Proxy-System für Multi-Server-Setups, Spielerweiterleitung & Authentifizierung              |
@@ -39,17 +40,16 @@
 ---
 
 ## ✨ Features (Geplant & Vorhanden)
-- 🌐 Moderne Website mit sauberem HTML & CSS
+- 🌐 Moderne Website mit sauberem Designe
 - 🎨 Individuelles Styling ohne Frameworks 
-- ⚙️ Dynamische Inhalte durch PHP-Backend
-- 🧠 Interaktive Funktionen mit JavaScript
-- 🔄 Serverseitige Datenverarbeitung und Logik mit PHP
+- 🧠 Interaktive & Dynamische Inhalte mit JavaScript
+- 🔄 Serverseitige Datenverarbeitung und Logik mit SpringBoot
 - 🔒 Stabilität, Sicherheit & Performance im Fokus 
 
 ---
 
 ## 📌 Status
-🚧 **Private Use** 
+🚧 **Planed but NOT in Development** 
 
 ---
 
