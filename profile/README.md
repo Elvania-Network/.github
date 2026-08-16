@@ -19,7 +19,7 @@
 ---
 
 ## 👨‍💻 Authoren
-- [@Dev0one](https://github.com/Dev0one)
+- [@Nytrixz](https://github.com/nytrixy)
 
 ---
 
