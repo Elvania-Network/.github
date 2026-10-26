@@ -35,11 +35,10 @@
 | **MariaDB**         | Relationale Datenbank für persistente Spiel- und Nutzerdaten (Plots, Economy, Stats)        |
 | **Redis**           | In-Memory Cache für schnelle Ingame-Abfragen, Session-Management, Leaderboards              |
 | **JSON / GSON**     | Datenstrukturierung & -verarbeitung zwischen Proxy, Cloud und Web                           |
-| ------------------- | ------------------------------------------------------------------------------------------- |
 
 ---
 
-## ✨ Features (Geplant & Vorhanden)
+## ✨ Features 
 - 🌐 Moderne Website mit sauberem Designe
 - 🎨 Individuelles Styling ohne Frameworks 
 - 🧠 Interaktive & Dynamische Inhalte mit 
